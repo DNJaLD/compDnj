@@ -1,2 +1,0 @@
-# compDnj
-compStorage
